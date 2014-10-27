@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Objects
+END
+CartesianVector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Objects/CartesianVector.cc
+END
+Histograms.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Objects/Histograms.cc
+END
+Cluster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Objects/Cluster.cc
+END
+DetectorGap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Objects/DetectorGap.cc
+END
+ParticleFlowObject.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Objects/ParticleFlowObject.cc
+END
+CaloHit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Objects/CaloHit.cc
+END
+MCParticle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Objects/MCParticle.cc
+END
+OrderedCaloHitList.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Objects/OrderedCaloHitList.cc
+END
+Track.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Objects/Track.cc
+END
+TrackState.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Objects/TrackState.cc
+END
+Helix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Objects/Helix.cc
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/KMeansContent/src
+END
+KCutil.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/KMeansContent/src/KCutil.cc
+END
+KMcenters.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/KMeansContent/src/KMcenters.cc
+END
+KMrand.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/KMeansContent/src/KMrand.cc
+END
+KCtree.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/KMeansContent/src/KCtree.cc
+END
+KMeans.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/KMeansContent/src/KMeans.cc
+END
+KMterm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/KMeansContent/src/KMterm.cc
+END
+KMdata.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/KMeansContent/src/KMdata.cc
+END
+KMfilterCenters.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/KMeansContent/src/KMfilterCenters.cc
+END
+KMlocal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/KMeansContent/src/KMlocal.cc
+END
+KM_ANN.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/KMeansContent/src/KM_ANN.cc
+END
+KMeansClusteringAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/KMeansContent/src/KMeansClusteringAlgorithm.cc
+END

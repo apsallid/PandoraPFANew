@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Managers
+END
+ClusterManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Managers/ClusterManager.cc
+END
+ParticleFlowObjectManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Managers/ParticleFlowObjectManager.cc
+END
+CaloHitManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Managers/CaloHitManager.cc
+END
+TrackManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Managers/TrackManager.cc
+END
+Metadata.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Managers/Metadata.cc
+END
+AlgorithmManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Managers/AlgorithmManager.cc
+END
+InputObjectManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Managers/InputObjectManager.cc
+END
+AlgorithmObjectManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Managers/AlgorithmObjectManager.cc
+END
+PluginManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Managers/PluginManager.cc
+END
+MCManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Managers/MCManager.cc
+END
+Manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/src/Managers/Manager.cc
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src
+END
+FineGranularityParticleId.cc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/FineGranularityParticleId.cc
+END
+FineGranularityShowerProfileCalculator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/FineGranularityShowerProfileCalculator.cc
+END
+FineGranularityEnergyCorrections.cc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/FineGranularityEnergyCorrections.cc
+END
+FineGranularityPseudoLayerCalculator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/FineGranularityPseudoLayerCalculator.cc
+END

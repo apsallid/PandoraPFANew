@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Managers
+END
+PluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Managers/PluginManager.h
+END
+MCManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Managers/MCManager.h
+END
+Manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Managers/Manager.h
+END
+ClusterManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Managers/ClusterManager.h
+END
+ParticleFlowObjectManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Managers/ParticleFlowObjectManager.h
+END
+CaloHitManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Managers/CaloHitManager.h
+END
+TrackManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Managers/TrackManager.h
+END
+Metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Managers/Metadata.h
+END
+AlgorithmManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Managers/AlgorithmManager.h
+END
+InputObjectManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Managers/InputObjectManager.h
+END
+AlgorithmObjectManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Managers/AlgorithmObjectManager.h
+END

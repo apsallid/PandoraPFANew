@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/FragmentRemoval
+END
+FragmentRemovalParentAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/FragmentRemoval/FragmentRemovalParentAlgorithm.h
+END
+NeutralFragmentRemovalAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/FragmentRemoval/NeutralFragmentRemovalAlgorithm.h
+END
+MergeSplitPhotonsAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/FragmentRemoval/MergeSplitPhotonsAlgorithm.h
+END
+BeamHaloMuonRemovalAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/FragmentRemoval/BeamHaloMuonRemovalAlgorithm.h
+END
+MainFragmentRemovalAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/FragmentRemoval/MainFragmentRemovalAlgorithm.h
+END
+PhotonFragmentRemovalAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/FragmentRemoval/PhotonFragmentRemovalAlgorithm.h
+END

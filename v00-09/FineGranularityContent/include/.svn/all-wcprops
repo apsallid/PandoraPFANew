@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include
+END
+FineGranularityPseudoLayerCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/FineGranularityPseudoLayerCalculator.h
+END
+FineGranularityContent.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/FineGranularityContent.h
+END
+FineGranularityParticleId.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/FineGranularityParticleId.h
+END
+FineGranularityShowerProfileCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/FineGranularityShowerProfileCalculator.h
+END
+FineGranularityEnergyCorrections.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/FineGranularityEnergyCorrections.h
+END

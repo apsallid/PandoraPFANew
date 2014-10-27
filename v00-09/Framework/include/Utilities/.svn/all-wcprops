@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Utilities
+END
+FileWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Utilities/FileWriter.h
+END
+BFieldCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Utilities/BFieldCalculator.h
+END
+FileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Utilities/FileReader.h
+END
+ShowerProfileCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Utilities/ShowerProfileCalculator.h
+END
+PseudoLayerCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Utilities/PseudoLayerCalculator.h
+END

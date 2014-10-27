@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/PfoConstruction
+END
+PfoCreationParentAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/PfoConstruction/PfoCreationParentAlgorithm.h
+END
+CLICPfoSelectionAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/PfoConstruction/CLICPfoSelectionAlgorithm.h
+END
+KinkPfoCreationAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/PfoConstruction/KinkPfoCreationAlgorithm.h
+END
+PfoCreationAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/PfoConstruction/PfoCreationAlgorithm.h
+END
+V0PfoCreationAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/include/PfoConstruction/V0PfoCreationAlgorithm.h
+END

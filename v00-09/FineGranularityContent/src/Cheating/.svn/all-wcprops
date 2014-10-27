@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Cheating
+END
+PerfectClusteringAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Cheating/PerfectClusteringAlgorithm.cc
+END
+CheatingPfoCreationAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Cheating/CheatingPfoCreationAlgorithm.cc
+END
+CheatingClusterMergingAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Cheating/CheatingClusterMergingAlgorithm.cc
+END
+CheatingTrackToClusterMatching.cc
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Cheating/CheatingTrackToClusterMatching.cc
+END
+PerfectFragmentRemovalAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Cheating/PerfectFragmentRemovalAlgorithm.cc
+END

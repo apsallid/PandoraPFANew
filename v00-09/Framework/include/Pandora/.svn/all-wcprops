@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Pandora
+END
+PandoraInputTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Pandora/PandoraInputTypes.h
+END
+PandoraIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Pandora/PandoraIO.h
+END
+PandoraInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Pandora/PandoraInternal.h
+END
+StatusCodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Pandora/StatusCodes.h
+END
+AlgorithmHeaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Pandora/AlgorithmHeaders.h
+END
+PdgTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Pandora/PdgTable.h
+END
+TemplateAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Pandora/TemplateAlgorithm.h
+END
+Pandora.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Pandora/Pandora.h
+END
+PandoraSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Pandora/PandoraSettings.h
+END
+Algorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Pandora/Algorithm.h
+END
+PandoraImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Pandora/PandoraImpl.h
+END

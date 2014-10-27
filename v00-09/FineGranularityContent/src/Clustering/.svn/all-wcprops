@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Clustering
+END
+ConeClusteringAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Clustering/ConeClusteringAlgorithm.cc
+END
+LineClusteringAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Clustering/LineClusteringAlgorithm.cc
+END
+ClusteringParentAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Clustering/ClusteringParentAlgorithm.cc
+END
+InwardConeClusteringAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Clustering/InwardConeClusteringAlgorithm.cc
+END
+ForcedClusteringAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Clustering/ForcedClusteringAlgorithm.cc
+END

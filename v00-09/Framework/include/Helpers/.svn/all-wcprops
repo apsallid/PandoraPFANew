@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Helpers
+END
+FragmentRemovalHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Helpers/FragmentRemovalHelper.h
+END
+GeometryHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Helpers/GeometryHelper.h
+END
+ParticleIdHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Helpers/ParticleIdHelper.h
+END
+XmlHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Helpers/XmlHelper.h
+END
+ClusterHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Helpers/ClusterHelper.h
+END
+CaloHitHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Helpers/CaloHitHelper.h
+END
+MCParticleHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Helpers/MCParticleHelper.h
+END
+EnergyCorrectionsHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Helpers/EnergyCorrectionsHelper.h
+END
+ReclusterHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/Framework/include/Helpers/ReclusterHelper.h
+END

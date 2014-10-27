@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Monitoring
+END
+CaloHitMonitoringAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Monitoring/CaloHitMonitoringAlgorithm.cc
+END
+VisualMonitoringAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Monitoring/VisualMonitoringAlgorithm.cc
+END
+EfficiencyMonitoringAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Monitoring/EfficiencyMonitoringAlgorithm.cc
+END
+MCParticlesMonitoringAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Monitoring/MCParticlesMonitoringAlgorithm.cc
+END
+EnergyMonitoringAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Monitoring/EnergyMonitoringAlgorithm.cc
+END
+DumpPfosMonitoringAlgorithm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/PandoraPFANew/!svn/ver/1244/PandoraPFANew/tags/v00-09/FineGranularityContent/src/Monitoring/DumpPfosMonitoringAlgorithm.cc
+END
